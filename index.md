@@ -1,4 +1,4 @@
-# Andrii Pysarevskyi - Data Analyst Portfolio
+# Andrii Pysarevskyi - Data Analyst
 
 Welcome to my portfolio! I am a data analyst with a psychological background, which gives me a unique perspective when analyzing data. My interest in data analysis began during my psychology studies, particularly through my work in statistics. I am focused on using data to support decision-making processes, combining both analytical skills and insights into human behavior. Over the past six months, I’ve developed my expertise in Python-based data analysis, working on projects that demonstrate my ability to uncover actionable insights.
 
