@@ -22,7 +22,7 @@ During my psychology studies, I developed a strong interest in data analysis thr
 ### 2. [Car Sales Analysis](https://github.com/apysarevskyi/car-sales-analysis)
 - **Objective**: Analyzed car sales data to identify pricing trends, customer preferences, and regional variations.
 - **Results**: Provided insights into the factors that influence car pricing, including engine type, transmission, and region. Generated visualizations to communicate key findings to stakeholders.
-- **Tools**: Python (Pandas, Matplotlib, Seaborn, Tableau)
+- **Tools**: Python (Pandas, Matplotlib, Seaborn)
 
 ### 3. [Mental Health Data Analysis](https://github.com/apysarevskyi/mental-health-data-analysis)
 - **Objective**: Investigated the factors affecting mental health and stress levels, using data to identify key associations and trends.
