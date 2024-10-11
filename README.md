@@ -24,6 +24,11 @@ During my psychology studies, I developed a strong interest in data analysis thr
 - **Results**: Provided insights into the factors that influence car pricing, including engine type, transmission, and region. Generated visualizations to communicate key findings to stakeholders.
 - **Tools**: Python (Pandas, Matplotlib, Seaborn, Tableau)
 
+### 3. [Mental Health Data Analysis](https://github.com/apysarevskyi/mental-health-data-analysis)
+- **Objective**: Investigated the factors affecting mental health and stress levels, using data to identify key associations and trends.
+- **Results**: Discovered significant but weak relationships between stress and variables such as gender, occupation, family history, and access to mental health care. Applied statistical tests and created visualizations to support findings.
+- **Tools**: Python (Pandas, Matplotlib, Seaborn, Statsmodels)
+
 ## Contact Information
 
 I am always open to new opportunities and collaborations. Please feel free to reach out if you are interested in discussing how I can contribute to your data analysis needs.
@@ -33,3 +38,4 @@ I am always open to new opportunities and collaborations. Please feel free to re
 - **GitHub**: [github.com/apysarevskyi](https://github.com/apysarevskyi)
 
 Thank you for taking the time to review my portfolio. I look forward to connecting with you!
+
