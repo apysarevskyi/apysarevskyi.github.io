@@ -29,6 +29,11 @@ During my psychology studies, I developed a strong interest in data analysis thr
 - **Results**: Discovered significant but weak relationships between stress and variables such as gender, occupation, family history, and access to mental health care. Applied statistical tests and created visualizations to support findings.
 - **Tools**: Python (Pandas, Matplotlib, Seaborn, Statsmodels)
 
+### 4. [California Nature Retreats: Airbnb Performance & Real Estate Trends](https://public.tableau.com/app/profile/apysarevskyi/viz/AirbnbMarketAnalysis_17291718470210/CaliforniaNatureRetreatsAirbnbPerformanceRealEstateTrends)
+- **Objective**: Analyzed Airbnb rental performance and real estate trends across key nature retreat destinations in California, providing insights into revenue potential and property investment opportunities.
+- **Results**: Demonstrated the impact of amenities like pools and hot tubs on revenue and nightly rates, identified top revenue-generating properties, and compared real estate prices across different regions and property sizes. Created an interactive Tableau dashboard to visualize data and provide actionable insights for potential investors.
+- **Tools**: Python (Jupyter Notebook, Pandas) for data cleaning and preprocessing, Tableau for data visualization and analysis.
+
 ## Contact Information
 
 I am always open to new opportunities and collaborations. Please feel free to reach out if you are interested in discussing how I can contribute to your data analysis needs.
