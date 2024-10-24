@@ -37,6 +37,13 @@ During my psychology studies, I developed a strong interest in data analysis thr
 - **Results**: Demonstrated the impact of amenities like pools and hot tubs on revenue and nightly rates, identified top revenue-generating properties, and compared real estate prices across different regions and property sizes. Created an interactive Tableau dashboard to visualize data and provide actionable insights for potential investors.
 - **Tools**: Python (Jupyter Notebook, Pandas) for data cleaning and preprocessing, Tableau for data visualization and analysis.
 
+### 5. [Students Performance Analysis](https://github.com/apysarevskyi/students-performance-analysis)
+- **Objective**: Explored key factors influencing students’ exam scores, focusing on the role of parental involvement, peer influence, teacher quality, and resource availability.
+- **Results**: Found that higher parental involvement, access to resources, and better teacher quality are significantly associated with higher exam scores. The analysis also revealed the importance of motivation and attendance in improving academic performance. Visualized results using a comprehensive Tableau dashboard for easy interpretation of the findings.
+- **Tools**: Python (Pandas, Matplotlib, Seaborn, Statsmodels) for statistical analysis and visualizations; Tableau for creating an interactive dashboard.
+- **Kaggle Notebook**: [Students Performance Analysis](https://www.kaggle.com/code/andriipysarevskyi/students-performance-analysis)
+- **Tableau Dashboard**: [Students Performance Dashboard](https://public.tableau.com/app/profile/apysarevskyi/viz/StudentsPerformanceAnalysis_17297658022780/Dashboard1?publish=yes)
+
 ## Contact Information
 
 I am always open to new opportunities and collaborations. Please feel free to reach out if you are interested in discussing how I can contribute to your data analysis needs.
