@@ -60,4 +60,3 @@ I am always open to new opportunities and collaborations. Please feel free to re
 - **Kaggle**: [kaggle.com/andriipysarevskyi](https://www.kaggle.com/andriipysarevskyi)
 
 Thank you for taking the time to review my portfolio. I look forward to connecting with you!
-
