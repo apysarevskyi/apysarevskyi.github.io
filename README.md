@@ -3,7 +3,7 @@
 
 Welcome to my portfolio! I am a Junior Data Analyst with a background that blends analytical skills and insights into human behavior. My journey into data analysis began during a university statistics course, where I developed a strong interest in using data to inform decision-making. I focus on transforming complex data into clear, actionable findings that address real-world challenges and drive growth. Specializing in data wrangling, advanced analysis, and visualization, I am skilled in Python-based analysis, SQL, and creating interactive dashboards in Power BI and Tableau.
 
-##Skills
+## Skills
 
 - **Programming Languages**: Python
 - **Libraries**: Pandas, NumPy, Scikit-learn, Statsmodels
